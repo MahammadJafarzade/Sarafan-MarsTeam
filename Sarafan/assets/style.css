@@ -1,0 +1,63 @@
+section{
+    padding: 40px 0;
+}
+.collection-title{
+    color: #2D2D2D;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 113.9%; /* 28.475px */
+    letter-spacing: 0.75px;
+}
+img{
+    height: 604px;
+}
+.product{
+    padding: 30px 5px;
+}
+.clothes-image{
+    position: relative;
+}
+.clothes-image img{
+    width: 100%;    
+    border-radius: 5px;
+    cursor: pointer;
+}
+.clothes-title{
+    padding-top:8px;
+    color: #2D2D2D;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 113.9%
+}
+.clothes-title a{
+    text-decoration: none;
+    color: #2D2D2D;
+}
+.overlay a i{
+    position: absolute; 
+    top: 11px;
+    right: 11px;
+    color: white;
+    font-size: 18px;
+}
+/* atlet start */
+#atlet{
+    padding: 40px 0;
+}
+.atlet-images img{
+    width: 100%;    
+    padding-top: 10px;
+}
+.sup-brend a{
+    color: #6F6F6F;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; /* 22.4px */
+text-decoration-line: underline;
+}
