@@ -21,4 +21,3 @@ const swiperEl = document.querySelector('swiper-container');
         },
       },
     });
-    swiperEl.initialize();
